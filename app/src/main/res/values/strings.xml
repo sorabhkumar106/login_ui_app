@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">LoginUI App</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="splash_screen_heading">Welcome to \n World\'s Largest Crypto Exchange</string>
+    <string name="login_email">Email</string>
+    <string name="loigin_or">OR</string>
+    <string name="login_button">Login</string>
+    <string name="login_edt_mobile_hint">Mobile</string>
+    <string name="login_edt_password">Password</string>
+    <string name="login_screen_logo">login screen logo</string>
+    <string name="signup_login_image_description">signup_login_image</string>
+    <string name="signup_edt_conform_password">Conform Password</string>
+    <string name="signup_edt_hint_choose_password">Choose Password</string>
+    <string name="signup_address_hint">Address</string>
+    <string name="signup_edt_phone_hint">Phone</string>
+    <string name="signup_email_hint">Email</string>
+    <string name="signup_username_hint">UserName</string>
+    <string name="signup_btn_text">sign up</string>
+    <string name="recycleview_layout_btn_text">buy</string>
+    <string name="recycleview_image_description">recycleView image description</string>
+    <string name="forgot_password_btn">Sign Up</string>
+</resources>
